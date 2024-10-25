@@ -18,9 +18,9 @@ ISA5810 Lab 1 Notebook
     - file : [DM2024-Lab1-HW_3.ipynb](./DM2024-Lab1-HW_3.ipynb)
 
     - Generate meaningful new data visualizations.  
-       **Search : New Data Visualization**
+       **Search : New Data Visualization!**
     - Generate TF-IDF features from the tokens of each text. This will generating a document matrix, however, the weights will be computed differently (using the TF-IDF value of each word per document as opposed to the word frequency). 
-        **Search : TF-IDF (Term Frequency-Inverse Document Frequeny)**
+        **Search : TF-IDF (Term Frequency-Inverse Document Frequeny)!**
 
     - Implement a simple Naive Bayes classifier that automatically classifies the records into their categories. Use both the TF-IDF features and word frequency features to build two seperate classifiers. Note that for the TF-IDF features you might need to use other type of NB classifier different than the one in the Master Notebook. Comment on the differences. 
 
