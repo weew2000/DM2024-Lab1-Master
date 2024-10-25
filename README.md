@@ -10,7 +10,7 @@ ISA5810 Lab 1 Notebook
 # Instructions
 1. First: do the take home exercises in the DM2024-Lab1-Master. You may need to copy some cells from the Lab notebook to this notebook. This part is worth 20% of your grade.
     - file : [DM2024-Lab1-Master.ipynb](./DM2024-Lab1-Master.ipynb)
-    - 
+    
 2. Second: follow the same process from the DM2024-Lab1-Master on the new dataset. You don't need to explain all details as we did (some minimal comments explaining your code are useful though). This part is worth 30% of your grade.
     - file : [DM2024-Lab1-HW.ipynb](./DM2024-Lab1-HW.ipynb)
 
